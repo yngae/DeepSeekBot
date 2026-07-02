@@ -16,7 +16,7 @@ class BotConfig:
         
         # OpenRouter configuration
         self.openrouter_base_url = "https://openrouter.ai/api/v1"
-        self.model_name = "deepseek/deepseek-r1"
+        self.model_name = "deepseek/deepseek-r1:free"
         
         # Bot configuration
         self.max_context_messages = 200
